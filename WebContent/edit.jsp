@@ -3,7 +3,7 @@
 <%@ taglib uri="http://www.springframework.org/tags" prefix="spring"%>
 <html>
 <head>
-<title>Being Java Guys | Spring DI Hello World</title>
+<title>Dream Java  | Spring JDBCTemplate</title>
 <style>
 body {
  font-size: 20px;

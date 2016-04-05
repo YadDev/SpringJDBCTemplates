@@ -5,7 +5,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <html>
 <head>
-<title>Being Java Guys | Spring DI Hello World</title>
+<title>Dream Java | Spring JDBCTemplate</title>
 <style>
 body {
  font-size: 20px;
